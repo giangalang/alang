@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 cong nghe thong
 giang a lang
+=======
+cong nghe thong tin
+da duoc thay doi
+>>>>>>> origin/master
